@@ -1,0 +1,5 @@
+tasks:
+  - name: Task 1
+    command: echo 'Hello, World!'
+  - name: Task 2
+    command: ls -la
